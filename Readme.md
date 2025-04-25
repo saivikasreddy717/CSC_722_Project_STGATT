@@ -8,6 +8,7 @@ STGATT: Sandwich-style spatial temporal GNN for data imputation
 #### Datasets
 * 22June2020 (#samples 3600, #nodes 28)
 * 29June2020 (#samples 7201, #nodes 25)
+* SWaT: The Secure Water Treatment (SWaT) dataset is available for research purposes upon application. To apply for the SWaT dataset, please visit [iTrust Datasets](https://itrust.sutd.edu.sg/datasets/) and follow the application instructions provided, or contact the dataset providers directly for further assistance.
 
 #### Preprocessing
 * Min-max scale
