@@ -29,7 +29,6 @@ STGATT: Sandwich-style spatial temporal GNN for data imputation
 * MSE
 * MAE
 * RMSE
-* MAPE (Not used)
 
 #### Baselines
 * FFN
@@ -55,8 +54,7 @@ STGATT: Sandwich-style spatial temporal GNN for data imputation
 * In dynamic graphs generation, to keep the sparsity, we only select the most first 50% (hyper parameter) prominent edges (directed).
 * Other details see codes.
 
-###
-Team members
+### Team members
 1. Xuanhao Luo
 2. Jinming Xing
 3. Sai Vikas Reddy Yeddulamala
