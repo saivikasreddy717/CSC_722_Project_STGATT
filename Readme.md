@@ -47,12 +47,10 @@ STGATT: Sandwich-style spatial temporal GNN for data imputation
 * Transformer with learnable positional encoding was utilized for capturing global and local temporal dependencies.
 * Experiment results on two real-world datasets demonstrate the effectiveness of our model.
 
-### Note
+### Notes
 * We use bidirectional attention (encoder-only) to capture a broader information.
 * Positional encoding in Transformer is learnable
-* Cross validation is used for selecting parameters
 * In dynamic graphs generation, to keep the sparsity, we only select the most first 50% (hyper parameter) prominent edges (directed).
-* Other details see codes.
 
 ### Team members
 1. Xuanhao Luo
